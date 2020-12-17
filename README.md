@@ -2,6 +2,12 @@
 
 Select & Share a Place App with TypeScript. This repository includes my practice about TypeScript. 
 
+## Google GeoCode API
+
+1. Request API key from Google. https://developers.google.com/maps/documentation/geocoding/overview
+
+2. Paste your API key to `app.ts`
+
 ## How to start project?
 
 In the root folder:
